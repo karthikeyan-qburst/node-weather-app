@@ -1,0 +1,1 @@
+console.log("inside externak js");
